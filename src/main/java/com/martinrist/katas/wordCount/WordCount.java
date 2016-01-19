@@ -9,7 +9,8 @@ import java.util.Map;
  */
 public class WordCount {
 
-    public Map<String,Integer> phrase(String phrase) {
+    public Map<String,Integer> phrase(String input) {
+        // TODO: Complete implementation
         return null;
     }
 }
