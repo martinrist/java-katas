@@ -18,7 +18,7 @@ public class WordCountTest {
 
     private final WordCount wordCount = new WordCount();
 
-    @Test(expected = IllegalArgumentException.class)
+    @Test(expected = NullPointerException.class)
     public void nullPhrase() {
         wordCount.phrase(null);
     }
