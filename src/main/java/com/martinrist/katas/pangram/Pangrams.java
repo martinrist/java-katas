@@ -7,7 +7,7 @@ package com.martinrist.katas.pangram;
  */
 public class Pangrams {
 
-    public static boolean isPangram(String s) {
+    public static boolean isPangram(String input) {
         return false;
     }
 }
