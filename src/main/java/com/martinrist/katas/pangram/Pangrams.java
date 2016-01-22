@@ -8,6 +8,7 @@ package com.martinrist.katas.pangram;
 public class Pangrams {
 
     public static boolean isPangram(String input) {
+        // TODO: Complete implementation
         return false;
     }
 }
